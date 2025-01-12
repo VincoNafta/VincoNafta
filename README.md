@@ -6,7 +6,9 @@ I programming in
 - Python
 - PHP
 
-One of creators addons in XBMC-KODI-CZ/SK repositary
+One of creators addons in XBMC-KODI-CZ/SK repositary.
+
+If you have any questions please contact me on vinconaftask@gmail.com
 <!--## Hi there 👋
 -->
 <!--
