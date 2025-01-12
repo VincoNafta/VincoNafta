@@ -1,10 +1,19 @@
-## Hello I'm VincoNafta
+# Hello I'm VincoNafta
 I'm student of Faculty of Management Science and Informatics on University of Zilina
 
-I programming in
+### I programming in
 - Java
 - Python
 - PHP
+- C++ (embeded systems)
+
+### I using this technologies:
+- Backend Web Frameworks (Laravel, Spring)
+- Database Systems (experiences with MySQL,MariaDB, SQLlite, PostgreSQL)
+- Webscraping (Selenium, Scapy, BeautifulSoup)
+- Operating Systems (Linux (Ubuntu, Debian), Windows, FreeBSD)
+- Works with text formats (csv, XML, JSON)
+- Fontend technologies (HTML5, CSS,Bootstrap)
 
 One of creators addons in XBMC-KODI-CZ/SK repositary.
 
