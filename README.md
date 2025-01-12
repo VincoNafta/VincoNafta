@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello I'm VincoNafta
+I'm student of Faculty of Management Science and Informatics on University of Zilina
 
+I programming in
+- Java
+- Python
+- PHP
+
+One of creators addons in XBMC-KODI-CZ/SK repositary
+<!--## Hi there 👋
+-->
 <!--
 **VincoNafta/VincoNafta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
