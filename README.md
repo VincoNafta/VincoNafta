@@ -6,17 +6,23 @@ I'm student of Faculty of Management Science and Informatics on University of Zi
 
 ### I using this technologies:
 - Backend Web Frameworks
-![My WebTech](https://skillicons.dev/icons?i=spring,laravel&theme=light)
+  
+  ![My WebTech](https://skillicons.dev/icons?i=spring,laravel&theme=light)
 - Database Systems
-![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=light)
+  
+  ![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=light)
 - Webscraping (BeautifulSoup)
-![Scrapers](https://skillicons.dev/icons?i=selenium,beautifilsoup&theme=light)
+  
+  ![Scrapers](https://skillicons.dev/icons?i=selenium,beautifilsoup&theme=light)
 - Operating Systems
-![Operating_systems](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,bsd&theme=light)
+  
+  ![Operating_systems](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,bsd&theme=light)
 - Fontend technologies
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,&theme=light)
+  
+  ![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,&theme=light)
 - Other technologies
-![Other Techs](https://skillicons.dev/icons?i=docker,wordpress&theme=light)
+  
+  ![Other Techs](https://skillicons.dev/icons?i=docker,wordpress&theme=light)
 - Works with text formats (csv, XML, JSON)
 
 
