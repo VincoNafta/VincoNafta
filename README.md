@@ -2,20 +2,27 @@
 I'm student of Faculty of Management Science and Informatics on University of Zilina
 
 ### I programming in
-- Java
-- Python
-- PHP
-- C++ (embeded systems)
+![My Skills](https://skillicons.dev/icons?i=java,php,python&theme=light)
 
 ### I using this technologies:
-- Backend Web Frameworks (Laravel, Spring)
-- Database Systems (experiences with MySQL,MariaDB, SQLlite, PostgreSQL)
-- Webscraping (Selenium, Scapy, BeautifulSoup)
-- Operating Systems (Linux (Ubuntu, Debian), Windows, FreeBSD)
+- Backend Web Frameworks
+![My WebTech](https://skillicons.dev/icons?i=spring,laravel&theme=light)
+- Database Systems
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=light)
+- Webscraping (BeautifulSoup)
+![Scrapers](https://skillicons.dev/icons?i=selenium,beautifilsoup&theme=light)
+- Operating Systems
+![Operating_systems](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,bsd&theme=light)
+- Fontend technologies
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,&theme=light)
+- Other technologies
+![Other Techs](https://skillicons.dev/icons?i=docker,wordpress&theme=light)
 - Works with text formats (csv, XML, JSON)
-- Fontend technologies (HTML5, CSS,Bootstrap)
+
 
 One of creators addons in XBMC-KODI-CZ/SK repositary.
+
+![](https://komarev.com/ghpvc/?username=VincoNafta&color=blue)
 
 If you have any questions please contact me on vinconaftask@gmail.com
 <!--## Hi there 👋
