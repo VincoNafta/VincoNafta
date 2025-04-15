@@ -1,7 +1,7 @@
 # Hello I'm VincoNafta
 I'm student of Faculty of Management Science and Informatics on University of Zilina
 
-### I programming in
+### I'm programming in
 ![My Skills](https://skillicons.dev/icons?i=java,php,python&theme=light)
 
 ### I'm using this technologies:
