@@ -4,7 +4,7 @@ I'm student of Faculty of Management Science and Informatics on University of Zi
 ### I programming in
 ![My Skills](https://skillicons.dev/icons?i=java,php,python&theme=light)
 
-### I using this technologies:
+### I'm using this technologies:
 - Backend Web Frameworks
   
   ![My WebTech](https://skillicons.dev/icons?i=spring,laravel&theme=light)
